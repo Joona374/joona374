@@ -36,9 +36,6 @@ Automates data extraction from PDFs and generates structured Excel sheets.
 ### 💡 Interests
 Sports, stats, full-stack web dev, low-level, and building side projects that can grow into real products.
 
-## 📊 GitHub Stats
-[![Joona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joona374&show_icons=true&theme=radical)]
-
 ## 📫 Contact
 - Email: joona-rahm@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/joona-rahm-238b5b180/)  
