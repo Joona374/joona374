@@ -1,29 +1,44 @@
-# Hi there 👋
+# Hi, I’m Joona 👋
+ICT Engineering student | Aspiring Full-Stack Developer | Low-level enthusiast  
 
-### Who am i?
-I'm Joona, an ICT engineering student and self-driven developer in the making.
-I enjoy learning by creating, and having actual users break everything!
-I find my self most drawn to everything backend and logic related.
+I build tools and apps that solve real problems, from coaching analytics for ice hockey teams to automating data workflows for companies. I enjoy both full-stack web development and exploring low-level / systems-level programming in my free time.
 
-### 🌱 I’m learning
-- Clean and maintainable software design.  
-- Full-stack development with FastAPI / Flask & with a side React.
-- How to collect and use data, whether it’s visualizing or analyzing it.
+---
+
+## 🛠 Skills
+**Languages:** Python, JavaScript/TypeScript, C  
+**Backend:** FastAPI, Flask  
+**Frontend:** React, HTML/CSS  
+**Databases:** SQL / PostgreSQL  
+**Other:** Git, Linux, Data processing, Automation scripts  
+
+---
+
+## 🚀 Projects
+
+### **🏒 Video-Based Coaching App** ([scoring-app-3](https://github.com/Joona374/scoring-app-3))
+Full-stack web app to track hockey scoring chances and player stats.  
+- Built solo for a large Finnish junior ice hockey club  
+- Features tagging, team/player management, Excel export  
+- Technologies: React, FastAPI, PostgreSQL, Python  
+
+### **📄 PDF → Excel Converter**
+Automates data extraction from PDFs and generates structured Excel sheets.  
+- Built solo for a small company to streamline their data management  
+- Includes scripts for batch processing, validation, and automation  
+- Technologies: Python, pandas, openpyxl  
+
+### **🎮 Miscellaneous / Experiments**
+- **CPU Simulation** – Low-level microcontroller simulation in C ([cpu-sim](https://github.com/Joona374/cpu-sim))  
+- **Bracket Challenge 2.0** – NHL bracket challenge game with TypeScript ([BracketChallenge2.0](https://github.com/Joona374/BracketChallenge2.0))  
+- A collection of smaller scripts, games, scrapers, data visualizations, and automation tools exploring full-stack, Python, and low-level programming
 
 ### 💡 Interests
-Sports, stats, full-stack web dev, and building side projects that can grow into real products.
+Sports, stats, full-stack web dev, low-level, and building side projects that can grow into real products.
 
-<!--
-**Joona374/joona374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+[![Joona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joona374&show_icons=true&theme=radical)]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: joona-rahm@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/joona-rahm-238b5b180/)  
