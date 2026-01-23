@@ -9,7 +9,7 @@ I build tools and apps that solve real problems, from coaching analytics for ice
 **Languages:** Python, JavaScript/TypeScript, C  
 **Backend:** FastAPI, Flask  
 **Frontend:** React, HTML/CSS  
-**Databases:** SQL / PostgreSQL  
+**Databases:** SQL / PostgreSQL / MongoDB
 **Other:** Git, Linux, Data processing, Automation scripts  
 
 ---
